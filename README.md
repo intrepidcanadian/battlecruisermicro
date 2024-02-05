@@ -4,6 +4,8 @@ For this Solana/Encode hackathon, I decided to try making a game using Unity and
 
 I was very happy exploring the different elements of both Solana Unity SDK and Unity. 
 
+I actually wanted to use the Token-2022 Program and spent the majority of time trying to get that to work in Unity. However, I couldn't get that done. I also tried SOAR for leaderboard but I believe it is only on mainnet and not on testnet. I think next steps would be to implement a game using the Token-2022 progam or because that would allow people to manipulate things much more dynamically and include hitpoints of the battlecruiser being changed as it navigates levels and being able to pause and resume the game with various stats recorded. In the future, I also want to introduce more challenge in the game like scourges that fly across the screen that try and hit the battlecruiser while the battlecruiser can shoot lasers. In any case, for this hackathon project....
+
 Introducing - BATTLECRUISER MICRO
 
 - In Starcraft Brood War, the battlecruiser is a heavy ship that takes forever to make. There also isn't much micro compared to other units. In this game, you get to navigate pipes like the flappy bird game
