@@ -14,7 +14,12 @@ Introducing - BATTLECRUISER MICRO
 
 Solana Hackathon
 
-- Here, you can log into your solana wallet using the Solana Unity SDK and see: (1) your account balance, and (2) your public key
+- Here, you can log into your solana wallet using the Solana Unity SDK and see:
+(1) your account balance, 
+(2) your public key
+(3) the NFTs you own
 - I thought this was really cool exploring the different prefabs Solana had. I mostly played around with the wallet prefab which grabbed the NFT logo and displayed the NFTs owned.
 - In addition, instead of manipulating the metadata (which I set as one json file on github), I allowed players to mint their player scores into the blockchain by changing the name of the NFT to include their high score.
 
+Come play the game at: https://intrepidcanadian.github.io/battlecruisermicro/
+Come look at my demo at: https://www.loom.com/share/23052fde71f547a58eff192b7ca386c1
